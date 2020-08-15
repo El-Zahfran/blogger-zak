@@ -1,0 +1,6 @@
+Rencana Konten Blogger
+
+- Js 
+- PHP
+- View
+- Vlog
