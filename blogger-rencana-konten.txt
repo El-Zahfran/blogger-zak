@@ -1,6 +1,8 @@
 Rencana Konten Blogger
 
 - Js 
+  *ES6
+  *Framwork JS
 - PHP
 - View
 - Vlog
